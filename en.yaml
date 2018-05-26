@@ -256,3 +256,13 @@ topbar.white-paper: WHITE PAPER
 topbar.announcements: ANNOUNCEMENTS
 whitepaper.button.next: NEXT
 whitepaper.button.previous: PREVIOUS
+
+profile.redeem.menu: REDEEM
+profile.redeem.prompt: ENTER THE AMOUNT YOU WANT TO REDEEM TO IOTX
+profile.redeem.button: SUBMIT APPLICATION
+profile.redeem.success: APPLICATION SUBMITTED
+profile.transfer.menu: TRANSFER
+profile.transfer.prompt: ENTER THE AMOUNT YOU WANT TO TRANSFER
+profile.transfer.button: TRANSFER
+profile.transfer.success: OK
+profile.history.menu: HISTORY
